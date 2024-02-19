@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm Nika Chikovani</h3>
 
-<h4 align="left">I am Front-End Developer</h4>
+<h4 align="left">I am Junior Front-End Developer</h4>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
