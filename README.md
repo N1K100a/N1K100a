@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Nika Chikovani
 
-## I am Front-End Developer
+I am Front-End Developer
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
